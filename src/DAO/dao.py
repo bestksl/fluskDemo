@@ -8,7 +8,7 @@ class Dao:
     __instance = None
 
     def __init__(self):
-        self.db_name = "test2.db"
+        self.db_name = "HW12.db"
         self.con = None
 
     def open_close(func):
