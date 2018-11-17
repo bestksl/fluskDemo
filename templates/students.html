@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>StudentsMainPage</title>
+</head>
+<body>
+<table border="1">
+    <th>
+        CWID
+    </th>
+    <th>
+        NAME
+    </th>
+    {% for student in students %}
+        <tr>
+            <td>
+                {{ student.cwid }}
+            </td>
+            <td>
+                {{ student.name }}
+            </td>
+        </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

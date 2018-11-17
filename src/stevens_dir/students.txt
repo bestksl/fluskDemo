@@ -1,0 +1,11 @@
+CWID	Name	Major
+10103	Baldwin, C	SFEN
+10115	Wyatt, X	SFEN
+10172	Forbes, I	SFEN
+10175	Erickson, D	SFEN
+10183	Chapman, O	SFEN
+11399	Cordova, I	SYEN
+11461	Wright, U	SYEN
+11658	Kelly, P	SYEN
+11714	Morton, A	SYEN
+11788	Fuller, E	SYEN
